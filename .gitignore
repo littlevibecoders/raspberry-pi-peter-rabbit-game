@@ -1,0 +1,10 @@
+# keep secrets and local stuff out of the repo
+.env
+*.key
+*.pem
+secrets*
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+node_modules/
