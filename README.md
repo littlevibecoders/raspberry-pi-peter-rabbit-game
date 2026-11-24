@@ -89,7 +89,7 @@ a tree lets you see through them.
 | 6 | The keyboard's **USB dongle** | Comes in the keyboard box. It lets the keyboard talk to the Pi. | (in the box) |
 | 7 | **Creative Pebble 2.0 USB speakers** | So the game can make sounds | [Amazon](https://www.amazon.com/dp/B0791H74NT) |
 | 8 | **Official Raspberry Pi 4 USB-C power supply** (5.1 V, 3 A) | Power for everything | [raspberrypi.com](https://www.raspberrypi.com/products/type-c-power-supply/) |
-| | **Micro-HDMI to HDMI cable** | Carries the picture from the Pi to the screen. The Pi 4 has *micro*-HDMI ports. | Check the screen's box first; buy one if it's missing. |
+| | **Micro-HDMI to HDMI cable** | Carries the picture from the Pi to the screen. The Pi 4 has *micro*-HDMI ports. | Comes in the screen's box |
 
 **Optional, for the blue 3D-printed stand:**
 
