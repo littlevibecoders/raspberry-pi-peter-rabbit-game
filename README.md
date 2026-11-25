@@ -7,7 +7,7 @@ You're alone in a big garden. Peter Rabbit is hiding somewhere among the crops. 
 before night falls, get close, and press **E** to catch him. Every round he runs faster and
 hides somewhere trickier.
 
-### 🎮 [Play it in your browser](https://littlevibecoders.github.io/raspberry-pi-peter-rabbit-game/) · 📺 Watch the video (link coming soon)
+### 🎮 [Play it in your browser](https://littlevibecoders.github.io/raspberry-pi-peter-rabbit-game/) · 📺 [Watch the video](https://youtu.be/-cgP8JJCQWE)
 
 ![A crayon drawing of a blue home-made computer showing a garden game, with a rabbit peeking out from behind it](docs/images/hero.jpg)
 
@@ -33,6 +33,8 @@ hides somewhere trickier.
 - [Credits & licence](#credits--licence)
 
 ## What's in the video
+
+📺 **[Watch it on YouTube](https://youtu.be/-cgP8JJCQWE)**
 
 1. **The parts.** What a Raspberry Pi is, and every part you need.
 2. **Putting it together.** Case, fan, screen, keyboard, speakers, cables.
