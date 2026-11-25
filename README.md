@@ -271,7 +271,7 @@ flowchart TD
 
 ## Credits & licence
 
-- **Game code:** [MIT License](LICENSE). Made by a 10-year-old by talking to Claude, with a
+- **Game code:** [MIT License](LICENSE). Made by an 8-year-old by talking to Claude, with a
   grown-up helping.
 - **Illustrations** in this README: made with Codex's image generator, in the crayon style
   of the video. Game screenshots are real captures of the game.
